@@ -4,8 +4,6 @@
 
 *JSON-CRUD V2 edition of the TPS Web API (with tag support)*
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-Check out the [running sample](http://rwcbook04.herokuapp.com/task/)
+Check out the [running sample](http://rwcbook04.up.railway.app/task/)
 
 More on the book [RESTful Web Clients](http://shop.oreilly.com/product/0636920037958.do)
